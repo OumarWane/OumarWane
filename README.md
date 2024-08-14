@@ -18,7 +18,7 @@ Recent graduate with a passion for Information Technology seeking a role as a Vu
 
 <h2>📺 Youtube Videos</h2>
 
-- [How Use Nessus Vulnerability Scanner](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How Use and Set Up Nessus Essentials](https://youtu.be/TypWpI8i4as)
 
 <h2> 🤳 Connect with me:</h2>
 
