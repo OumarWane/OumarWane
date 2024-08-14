@@ -5,7 +5,7 @@ Recent graduate with a passion for Information Technology seeking a role as a Vu
 
 <h2> 📊 Projects </h2>
 
-[Nessus Vulnerability Scanner](link for Github here)
+[Nessus Vulnerability Scanner Project](https://github.com/OumarWane/Nessus-Scanner-Project)
 
 
 <h2> 📄 Certifications </h2>
@@ -19,7 +19,6 @@ Recent graduate with a passion for Information Technology seeking a role as a Vu
 <h2>📺 Youtube Videos</h2>
 
 - [How Use Nessus Vulnerability Scanner](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- How to Create Your Own Active Directory Lab (Coming Soon!)
 
 <h2> 🤳 Connect with me:</h2>
 
