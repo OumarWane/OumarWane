@@ -1,4 +1,4 @@
-<h1>Hello, I'm Oumar! <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> and <a href="https://www.youtube.com/@oaw2780">Video Creator</a></h1>
+<h1>Hello, I'm Oumar! <a href="https://www.linkedin.com/in/oumarwane/">Cybersecurity Professional</a> and <a href="https://www.youtube.com/@oaw2780">Video Creator</a></h1>
 
 <h2>👨‍💻 About Me</h2>
 Recent graduate with a passion for Information Technology seeking a role as a Vulnerability Remediation Analyst. Possess knowledge on vulnerability scanning and remediation tactics in a project using Nessus. Familiar with fundamental networking concepts and eager to leverage my technical expertise to identify and mitigate security vulnerabilities in a challenging environment. 
