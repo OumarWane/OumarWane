@@ -16,7 +16,7 @@ Recent graduate with a passion for Information Technology seeking a role as a Vu
 
 
 
-<h2>📺 Youtube Videos</h2>
+<h2>📺 Youtube Video</h2>
 
 - [How Use and Set Up Nessus Essentials](https://youtu.be/TypWpI8i4as)
 
