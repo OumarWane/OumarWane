@@ -6,7 +6,7 @@ Recent graduate with a passion for Information Technology. Possess knowledge on 
 <h2> 📊 Projects </h2>
 
 - [Nessus Vulnerability Scanner Project](https://github.com/OumarWane/Nessus-Scanner-Project)
-
+- [Active Directory Project (Windows Server 2022)](https://github.com/OumarWane/Active-Directory-Project)
 
 <h2> 📄 Certifications </h2>
 
@@ -20,6 +20,7 @@ Recent graduate with a passion for Information Technology. Possess knowledge on 
 <h2>📺 Youtube Video</h2>
 
 - [How Use and Set Up Nessus Essentials](https://youtu.be/TypWpI8i4as)
+- [How To Setup Active Directory Using Windows Server 2022](https://youtu.be/3OgfwAJQeE4)
 
 <h2> 🤳 Connect with me:</h2>
 
