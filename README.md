@@ -24,6 +24,8 @@ Recent graduate with a passion for Information Technology. Possess knowledge on 
   
 - [How To Setup Active Directory Using Windows Server 2022](https://youtu.be/3OgfwAJQeE4)
 
+- [Group Policy Management Tutorial: Creating GPOs](https://youtu.be/EU8RqXUoosc)
+
 <h2> 🤳 Connect with me:</h2>
 
 - <a href="https://www.linkedin.com/in/oumarwane/">LinkedIn</a>
