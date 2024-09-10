@@ -1,7 +1,7 @@
-<h1>Hello, I'm Oumar! <a href="https://www.linkedin.com/in/oumarwane/">Aspiring Cybersecurity Professional</a> and <a href="https://www.youtube.com/@oaw2780">Video Creator</a></h1>
+<h1>Hello, I'm Oumar! <a href="https://www.linkedin.com/in/oumarwane/">Aspiring IT Support Technician</a> and <a href="https://www.youtube.com/@oaw2780">Video Creator</a></h1>
 
 <h2>👨‍💻 About Me</h2>
-Recent graduate with a passion for Information Technology. Possess knowledge on vulnerability scanning and remediation tactics in a project using Nessus. Set up Active Directory and created OUs as well as groups and users. Familiar with fundamental networking concepts and practices. Eager to leverage my technical expertise to identify and mitigate security vulnerabilities in a challenging environment. 
+Recent graduate with a passion for Information Technology. Currently certified with CompTIA Security+ and will soon acquire CompTIA A+ certification. Knowledgeable in Active Directory, creating Organizational Units and performing Group Policy Management tasks. Familiar with fundamental networking concepts and practices. Eager to leverage my knowledge in a challenging environment. 
 
 <h2> 📊 Projects </h2>
 
